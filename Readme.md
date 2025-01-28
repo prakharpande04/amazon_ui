@@ -1,1 +1,0 @@
-## this is a ui clone of amazon.
